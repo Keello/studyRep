@@ -28,13 +28,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selection_sort.Main" />
+  <component name="RunManager" selected="Application.HashTables">
+    <configuration name="HashTables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash_tables.HashTables" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selection_sort.*" />
+          <option name="PATTERN" value="hash_tables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -42,12 +42,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binary_search.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selection_sort.Main" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="binary_search.*" />
+          <option name="PATTERN" value="selection_sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashTables" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.Quicksort" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
