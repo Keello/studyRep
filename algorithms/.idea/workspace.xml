@@ -28,13 +28,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashTables">
-    <configuration name="HashTables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash_tables.HashTables" />
+  <component name="RunManager" selected="Application.BreadthSearch">
+    <configuration name="BreadthFirstSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreadthFirstSearch" />
+      <module name="algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BreadthSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="breadthSearch.BreadthSearch" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hash_tables.*" />
+          <option name="PATTERN" value="breadthSearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -42,12 +49,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="selection_sort.Main" />
+    <configuration name="HashTables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hash_tables.HashTables" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="selection_sort.*" />
+          <option name="PATTERN" value="hash_tables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,13 +75,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quicksort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Quicksort" />
-      <module name="algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.Recursion" />
       <module name="algorithms" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BreadthSearch" />
+        <item itemvalue="Application.BreadthFirstSearch" />
         <item itemvalue="Application.HashTables" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.Recursion" />
-        <item itemvalue="Application.Quicksort" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
