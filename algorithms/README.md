@@ -1,2 +1,2 @@
-# algorithms from book Grokking Algorithms
+# Algorithms from book Grokking Algorithms
 Aditya Bhargava 
