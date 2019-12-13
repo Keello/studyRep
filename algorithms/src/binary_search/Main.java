@@ -7,8 +7,8 @@ public class Main {
     for (int i=0; i<list.length;i++){
         list[i] = (i+1);
     }
-        System.out.println(serching(list, 2)); // 1
-        System.out.println(serching(list, 0)); // null
+        System.out.println(serching(list, 2));
+        System.out.println(serching(list, 0));
 
 
     }
